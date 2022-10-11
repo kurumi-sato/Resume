@@ -1,0 +1,36 @@
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Start test public:1:test_count_occ_out_len.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: law test_count_occ_out_len: 1000 relevant cases (1000 total)
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Test public:1:test_count_occ_out_len is successful.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: End test public:1:test_count_occ_out_len.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Start test public:2:test_count_occ_target_in_lst.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: law test_count_occ_target_in_lst: 1000 relevant cases (1000 total)
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Test public:2:test_count_occ_target_in_lst is successful.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: End test public:2:test_count_occ_target_in_lst.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Start test public:3:test_count_occ_reversed_same.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: law test_count_occ_reversed_same: 1000 relevant cases (1000 total)
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Test public:3:test_count_occ_reversed_same is successful.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: End test public:3:test_count_occ_reversed_same.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Start test public:4:test_uniq_out_len.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: law test_uniq_out_len: 1000 relevant cases (1000 total)
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Test public:4:test_uniq_out_len is successful.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: End test public:4:test_uniq_out_len.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Start test public:5:test_uniq_reversed_same.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: law test_uniq_reversed_same: 1000 relevant cases (1000 total)
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Test public:5:test_uniq_reversed_same is successful.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: End test public:5:test_uniq_reversed_same.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#02 I: Start test public:7:test_assoc_list_len_same_uniq.
+2022-03-09T19:10:30+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:30+00:00 kurumis-air.umd.edu#02 I: law test_assoc_list_len_same_uniq: 1000 relevant cases (1000 total)
+2022-03-09T19:10:30+00:00 kurumis-air.umd.edu#02 I: 
+2022-03-09T19:10:30+00:00 kurumis-air.umd.edu#02 I: Test public:7:test_assoc_list_len_same_uniq is successful.
+2022-03-09T19:10:30+00:00 kurumis-air.umd.edu#02 I: End test public:7:test_assoc_list_len_same_uniq.

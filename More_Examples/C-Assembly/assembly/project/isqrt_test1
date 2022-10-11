@@ -1,0 +1,5 @@
+#!/bin/tcsh -f
+
+cat isqrt_driver.s isqrt.s > isqrt_test1.s
+spim -file isqrt_test1.s | tail -n +2
+rm -f isqrt_test1.s

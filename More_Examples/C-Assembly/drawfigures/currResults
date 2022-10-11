@@ -1,0 +1,12 @@
+Enter 1(rectangle), 2(triangle), 3(other), 0(quit): Enter character, width and length: ######
+######
+######
+######
+Enter 1(rectangle), 2(triangle), 3(other), 0(quit): Invalid choice
+Enter 1(rectangle), 2(triangle), 3(other), 0(quit): Enter character and size:      #
+    ###
+   #####
+  #######
+ #########
+###########
+Enter 1(rectangle), 2(triangle), 3(other), 0(quit): Bye Bye.

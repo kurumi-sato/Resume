@@ -1,0 +1,32 @@
+if line =~ /^Dist\[(\d{6})\]: ((DVH|AM)(,(DVH|AM))*)$/ then
+ votes_split = $2.split(",")
+ @votes[$1.to_i] = {
+ "AM" => votes_split.count("AM"),
+ "DVH" => votes_split.count("DVH")
+ }
+}
+
+if @votes[district_id]["AM"] > @votes[district_id]["DVH"] then
+ "AM"
+else
+ "DVH"
+end
+
+total = Hash.new(0)
+for district_id, votes in @votes do
+ total[district_tally(district_id)] += 1
+end
+if total["AM"] > total["DVH"] then
+ "AM"
+else
+ "DVH"
+end
+
+
+
+
+let rec is_mod_fibonacci lst =
+ match lst with
+ | a::b::c::d -> (c = a + b) && is_mod_fibonacci (b::c::d)
+ | _ -> true
+ 

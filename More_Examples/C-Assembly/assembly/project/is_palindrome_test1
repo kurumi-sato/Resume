@@ -1,0 +1,5 @@
+#!/bin/tcsh -f
+
+cat is_palindrome_driver.s is_palindrome.s > is_palindrome_test1.s
+spim -file is_palindrome_test1.s | tail -n +2
+rm -f is_palindrome_test1.s

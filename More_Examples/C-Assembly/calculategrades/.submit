@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC216
+#  Project P1: Grades Calculator
+
+courseName=CMSC216
+semester=202108
+projectNumber=P1
+courseKey=63e1bcd1293da149
+authentication.type=cas
+baseURL=https://submit.cs.umd.edu:443/fall2021
+submitURL=https://submit.cs.umd.edu:443/fall2021/eclipse/SubmitProjectViaEclipse

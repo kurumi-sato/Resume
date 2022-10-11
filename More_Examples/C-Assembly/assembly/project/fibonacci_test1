@@ -1,0 +1,5 @@
+#!/bin/tcsh -f
+
+cat fibonacci_driver.s fibonacci.s > fibonacci_test1.s
+spim -file fibonacci_test1.s | tail -n +2
+rm -f fibonacci_test1.s

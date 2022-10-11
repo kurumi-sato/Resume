@@ -1,0 +1,50 @@
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Runner: processes
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Chooser: simple
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration suite_name = "student"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration cache_filename = "/Users/kurumisato/cmsc330spring22/project2b/_build/default/test/student/oUnit-$(suite_name).cache"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration run_gc_full_major = "true"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration display = "true"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration results_style_1_X = "false"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration testdata_dir = "none"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration health_check_interval = "1."
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration verbose = "false"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration chooser = "simple"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration output_html_dir = "none"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration processes_kill_period = "5."
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration runner = "processes"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration shards = "2"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration processes_grace_period = "5."
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration log_encoding = "utf-8"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration output_junit_file = "none"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration ci = "false"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Configuration output_file = "/Users/kurumisato/cmsc330spring22/project2b/_build/default/test/student/oUnit-$(suite_name)-$(shard_id).log"
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Using 2 workers maximum.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Starting worker number kurumis-air.umd.edu#01.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Worker kurumis-air.umd.edu#01 started.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Still 1 tests running : student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: 1 tests running: student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#01 I: Start test student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Still 1 tests running : student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: 1 tests running: student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#01 I: Test student:0:sanity is successful.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Still 1 tests running : student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: 1 tests running: student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#01 I: End test student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Still 1 tests running : student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: 1 tests running: student:0:sanity.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: 0 tests running: .
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Worker kurumis-air.umd.edu#01 has ended.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Used 1 worker during test execution.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Run 1 tests with shard kurumis-air.umd.edu#01.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Check health of shard kurumis-air.umd.edu#01, 1 times.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: ==============
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Summary:
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Test student:0:sanity is successful.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Ran: 1 tests in: 0.02 seconds.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Cases: 1.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Tried: 1.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Errors: 0.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Failures: 0.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Skip: 0.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Todo: 0.
+2022-03-09T19:10:29+00:00 kurumis-air.umd.edu#00 I: Timeout: 0.
