@@ -1,0 +1,21 @@
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Start test public:0:nfa_accept.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Test public:0:nfa_accept is successful.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: End test public:0:nfa_accept.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Start test public:2:nfa_move.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Test public:2:nfa_move is successful.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: End test public:2:nfa_move.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Start test public:3:nfa_to_dfa.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Test public:3:nfa_to_dfa is successful.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: End test public:3:nfa_to_dfa.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Start test public:4:re_to_nfa.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Test public:4:re_to_nfa is successful.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: End test public:4:re_to_nfa.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Start test public:6:nfa_new_states.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Test public:6:nfa_new_states is successful.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: End test public:6:nfa_new_states.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Start test public:8:nfa_new_finals.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Test public:8:nfa_new_finals is successful.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: End test public:8:nfa_new_finals.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Start test public:9:regex_to_nfa.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: Test public:9:regex_to_nfa is successful.
+2022-04-03T15:54:18+00:00 Kurumis-Air#01 I: End test public:9:regex_to_nfa.
