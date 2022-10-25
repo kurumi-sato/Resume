@@ -1,51 +1,10 @@
-# Project 2b: OCaml Higher Order Functions and Data
-
-Due: March 7, 2022 at 11:59 PM (late March 8, *10% penalty*)
-
-Points: 65 public, 35 semipublic
-
-**This is an individual assignment. You must work on this project alone.**
-
-# Overview
-
 The goal of this project is to increase your familiarity with programming in OCaml and give you practice using higher order functions and user-defined types. You will have to write a number of small functions, the specifications of which are given below.
 
 ## Ground Rules
 
 In addition to writing your own code, you may use library functions found in the [`Stdlib` module](https://caml.inria.fr/pub/docs/manual-ocaml/libref/Stdlib.html) and the functions provided in `funs.ml`. You **may not** (under threat of a grading penalty) use the `List` module, any submodules of `Stdlib` (such as `Hashtbl`, `Set`, etc.), or any imperative features of OCaml (e.g., mutable references and arrays). You *are allowed* to use the `@` (list append) operator.
-
-## Testing & Submitting
-
-Submit by running `gradescope-submit`.  ALternatively, upload **higher.ml** and **data.ml** to the assignment on gradescope.com.
-
-To test locally, run `dune runtest -f`. Besides the provided public tests, you will also find the file **student.ml** on `test/student/`, where you'll be able to add OUnit tests of your own. More detailed information about writing tests can be found [here](https://www.youtube.com/watch?v=C36JnAcClOQ). Here are the timestamps for the topics covered in the video:
-
-- Installing necessary software: [00:46](https://www.youtube.com/watch?v=C36JnAcClOQ&t=46s)
-- How to build and test: [01:14](https://www.youtube.com/watch?v=C36JnAcClOQ&t=74s)
-- List all available tests: [04:40](https://www.youtube.com/watch?v=C36JnAcClOQ&t=280s)
-- Running a specific test: [05:05](https://www.youtube.com/watch?v=C36JnAcClOQ&t=305s)
-- Testing inside of utop: [09:00](https://www.youtube.com/watch?v=C36JnAcClOQ&t=540s)
-- Understanding test cases: [16:00](https://www.youtube.com/watch?v=C36JnAcClOQ&t=960s)
-- Writing your own test cases: [19:20](https://www.youtube.com/watch?v=C36JnAcClOQ&t=1160s)
-
 You can interactively test your code by doing `dune utop src`, which will include your source files. (As usual, all of your commands in `utop` need to end with two semicolons (i.e. `;;`), otherwise it will appear that your terminal is hanging.)
 
-### Property-based Tests
-
-This project also includes [Property-based tests](https://www.youtube.com/watch?v=AfaNEebCDos) (PBT) for you to use. Property based testing enables pretty good test coverage without having to write a lot of individual tests. In particular, you specify a **property** that your code should have on many possible inputs, not just a particular one, and the property tester will generate lots of random inputs against which to test the property.
-
-The property-based tests (PBTs) we've provided are not meant to test your code entirely, but rather to give you a little help. You should still write your own tests. You can write typical unit tests (and/or test using `utop` or the `ocaml` top level), or if you like you can write more PBTs. You can find the provided PBTs in `test/pbt`, along with comments and instructions on how to expand them. We'll cover PBTs in more detail later in the class, so don't feel obligated to play with these now.
-
-## Notes
-
-* In this project, we've changed the way we give you examples. Instead of giving you example cases and expected output, we've given you OCaml code that you run in `utop` ot the `ocaml` top level. Make sure to ignore any failures when running examples for code where order of the result doesn't matter.
-* Some of the examples given use `OUnit2.assert_raises` to handle exceptions and failures. While the normal `assert` works fine in `utop`, `assert_raises` requires the `OUnit2` module to be opened.
-* Unlike most other languages, `=` in OCaml is the operator for structural equality whereas `==` is the operator for physical equality. All functions in this project (and in this class, unless ever specified otherwise) are concerned with structural equality.
-* At a few points in this project, you will need to raise an `Invalid_argument` exception. Use the `invalid_arg` function to do so:
-  ```ocaml
-  invalid_arg "something went wrong"
-  ```
-  Use the error message that the function specifies as the argument.
 
 # Part 1: Higher Order Functions
 
