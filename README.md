@@ -1,9 +1,9 @@
 # Resume
-Kurumi Sato
-(202) 445-5206
-ksato1@umd.edu
-https://www.linkedin.com/in/kurumi-sato/
-https://github.com/kurumi-sato/Resume
+ Kurumi Sato
+ ● (202) 445-5206
+ ● ksato1@umd.edu
+ ● https://www.linkedin.com/in/kurumi-sato/
+ ● https://github.com/kurumi-sato/Resume
 
 ## SKILLS
 Python, R, Tableau, SQL, SQLite, C, C++, Java, PyTorch, Tensorflow, MongoDB, FireBase, Django, pandas, SciPy, seaborn, sklearn, Git
