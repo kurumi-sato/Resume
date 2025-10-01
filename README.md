@@ -1,38 +1,40 @@
 # Resume
 Kurumi Sato
-www .kurumisato.wordpress.com
 (202) 445-5206
-kurumiisato@gmail.com
+ksato1@umd.edu
+https://www.linkedin.com/in/kurumi-sato/
+https://github.com/kurumi-sato/Resume
 
 ## SKILLS
-- Git / Github, SQL / SQLite , MongoDB, React, PyTorch, Selenium, JUnit, Google Firebase, NodeJS / Express,
-Linux / Unix, HPCToolKit, Algorithm design analysis, Problem-solving, Fluent in Japanese and proficient in Spanish
-- Programming Languages: JavaScript, HTML/CSS, Java, Python, Kotlin, C / C++, Ruby, Rust, OCaml, Assembly
+Python, R, Tableau, SQL, SQLite, C, C++, Java, PyTorch, Tensorflow, MongoDB, FireBase, Django, pandas, SciPy, seaborn, sklearn, Git
+
 ## EDUCATION
-### University of Maryland, College Park- May 2024
+
+### University of Maryland, College Park, Robert H. Smith School of Business                                          May 2027
+- Master of Science in Business Analytics
+- Relevant Coursework: Data Processing and Analytics in Python, Database Management Systems, Data Mining and Predictive Analytics
+### University of Maryland, College Park                                                                              May 2024
 - Bachelor of Science in Computer Science with a minor in General Business
-- Relevant courses: Advanced data structures, Android development, Introduction to Artificial Intelligence,
-Javascript, Parallel Computing in C++
+- Relevant Coursework: Advanced data structures, Statistics, Introduction to Parallel Computing in C++, Artificial Intelligence, Data Science
+
 ## WORK EXPERIENCE
-### Web Developer - Simple Gay Apparel April 2024-Present
-- Design, build and maintain the online store website using SEO techniques. Customize Shopify notifications in
-HTML. Program a system that uses data analysis to automate inventory shipments using sale numbers.
-### Student Supervisor - University of Maryland Dec 2021 – May 2024
-- Hire, train and supervise ~35 desk associates at residence hall call center. Program in Excel and Python to
-organize. ~50,000 work orders a year. Follow up on internal problems with on-call response to emergencies
-### Resident Assistant - University of Maryland Aug 2021 – May 2022
-- Assist residents with their transition to college and residence halls. Document incidents and submit reports on
-violations. Promote, organize, and plan events for the residence hall community
-### Programming, Electrical Mentor - First Robotics Competition June 2021-Aug 2023
-- Consult in the design and construction of a competition robot using Trello and Agile methodology. Assist high
-school students debug code and build an electrical board. Help students develop good documentation while coding
-## PROJECTS
-### Game of Life – C/C++ https://github.com/kurumi-sato/Resume/tree/main/GameofLife
-Uses HTML and Javascript to create a prototype of a health app that tracks food and exercise for its users. This application
-focuses on good human-computer interactions that are easy to use and allow for different health analysis features.
-### MLB Data Analysis – Python https://github.com/kurumi-sato/Resume/blob/main/More_Examples/LahmanBaseball.ipynb
-This project in Python utilizes SQLite and Panda to analyze data from the Lahman Baseball Dataset. Data visualization and
-linear regression are used to study salary v . wins in every team for 25 years. It also examines Oakland’s efficiency in Moneyball
-### Motor Accidents in MoCo MD – Python https://aryananwar.github.io/mocodangerousstreets
-A Python project which analyzes vehicle-pedestrian accidents in Montgomery County Maryland over 8 years. The program
-aims to find which intersections are most dangerous and what conditions increase the risks of accidents
+### Web Developer and Data Analyst- Simple Gay Apparel                                               September 2024 – May 2025
+- Focused on growth by analyzing customer acquisition traffic sources, using Python and Excel to improve traffic
+- Identified gaps in customer retention using Excel and data analysis, contributing to improved marketing strategy development
+- Improve online targeted marketing utilizing Google Analytics and SEO techniques and customize HTML emails and newsletters
+
+### Student Supervisor - University of Maryland                                                            Dec 2021 – May 2024
+- Resolved data-entry issues in 50,000+ annual maintenance requests by auditing records in Excel, resulting in higher accuracy
+- Digitized work order tracking in Excel and Google Sheets, improving maintenance response time and operational efficiency
+- Responded to on-call emergencies to ensure timely responses working with staff to follow state laws and emergency protocols
+
+## Projects
+### MLB Regression Analysis and Statistical Modeling [GitHub] [Excel, Python]
+- Assessed the highest ROI based on players’ performance, with a focused case study on Oakland’s strategy in “Moneyball”
+- Analyzed 25 years of team performance data from the Lahman Baseball Dataset. Delivered insights and identified patterns and
+trends through data cleaning, exploratory analysis, and regression modeling using SQLite, NumPy, pandas, matplotlib, and SciPy
+
+### Exploratory Analysis and Data Visualization of Vehicle-Pedestrian Accidents in Montgomery County, MD [GitHub] [Python]
+- Identified the most dangerous intersections and assessed environmental factors that increased vehicle accident risks
+- Analyzed 8 years of accidents in Montgomery County in a team of 3. Contributed to data cleaning, exploratory analysis, and used
+matplotlib, scipy, seaborn and sklearn to uncover trends. Delivered a report with key findings to the local division of traffic safety
