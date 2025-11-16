@@ -1,7 +1,0 @@
-#!/bin/tcsh -f
-
-# strlen_test2
-
-cat strlen_driver.s strlen.s > strlen_prog.s
-spim -file strlen_prog.s  < strlen_test2.input | tail -n +2
-rm -f strlen_prog.s

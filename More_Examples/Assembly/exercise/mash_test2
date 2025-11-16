@@ -1,7 +1,0 @@
-#!/bin/tcsh -f
-
-# mash_test2
-
-cat mash_driver.s mash.s > mash_prog.s
-spim -file mash_prog.s < mash_test2.input | tail -n +2
-rm -f mash_prog.s

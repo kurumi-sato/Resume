@@ -1,7 +1,0 @@
-(library
-  (name p3)
-  (modules nfa regexp sets)
-  (libraries str))
-(env
-  (dev
-      (flags (:standard -w -27-39-33-32))))

@@ -1,7 +1,0 @@
-#!/bin/tcsh -f
-
-# max2_test
-
-cat max_driver.s max.s > max_prog.s
-spim -file max_prog.s < max_test2.input | tail -n +2
-rm -f max_prog.s
